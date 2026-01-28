@@ -33,7 +33,7 @@ Combinando expertise de gestão com tecnologias de análise de dados:
 ## 📊 Projetos em Destaque
 | Projeto | Tecnologias | Descrição |
 | :--- | :--- | :--- |
-| [**Simulador de Investimentos FIIs**](https://github.com/renalioficial/controle-investimentos-dio) | Excel, Lógica Financeira | Ferramenta para projeção de juros compostos e dividendos, simulando cenários de longo prazo para tomada de decisão financeira. |
+| [**Desafio DIO - Simulador de Investimentos FIIs**](https://github.com/renalioficial/controle-investimentos-dio) | Excel, Lógica Financeira | Ferramenta para projeção de juros compostos e dividendos, simulando cenários de longo prazo para tomada de decisão financeira. |
 
 ---
 
