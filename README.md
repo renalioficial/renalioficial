@@ -1,6 +1,6 @@
 # Olá, sou a Renáli! 👋
 
-Com mais de 15 anos de experiência em **Liderança de Equipes no E-commerce/Marketplace** e **Gestão de Processos no Varejo e Indústria**, atuo conectando Operações, Marketing, Tecnologia e Estratégia. 
+Com mais de 15 anos de experiência em **Liderança de Equipes no E-commerce/Marketplace** e **Gestão de Processos e Projetos no Varejo e Indústria**, atuo conectando Operações, Marketing, Tecnologia e Estratégia. 
 
 Meu objetivo com a programação não é apenas "codar", mas aprofundar minha capacidade analítica para tomar decisões de alta gestão baseadas em dados reais e insights preditivos.
 
