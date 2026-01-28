@@ -41,3 +41,8 @@ Combinando expertise de gestão com tecnologias de análise de dados:
 ![Renali's GitHub stats](https://github-readme-stats.vercel.app/api?username=renalioficial&show_icons=true&theme=dracula&hide_border=true)
 
 ---
+
+## 📫 Contato
+Estou sempre aberta a discutir inovação em gestão e eficiência operacional.
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oficialrenali@gmail.com)
