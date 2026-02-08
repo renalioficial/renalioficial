@@ -45,9 +45,11 @@ Combinando expertise de gestão com tecnologias de análise de dados:
 
 | Projeto | Tecnologias | Descrição |
 | :--- | :--- | :--- |
-| [**Construindo Banco de Dados com Ajuda da IA**](https://github.com/renalioficial/data-base-pokemon-tcg-cards) | **PostgreSQL, SQL, PowerShell, IA** | Modelagem completa de banco de dados relacional, com script de automação de migração e Views para análise de dados. |
-| [**Simulador de Investimentos FIIs**](https://github.com/renalioficial/controle-investimentos-dio) | **Excel, Lógica Financeira** | Ferramenta para projeção de juros compostos e dividendos, simulando cenários de longo prazo para tomada de decisão. |
-| [**Organizador IR**](https://github.com/renalioficial/informe-leao-organizador-de-imposto-de-renda-dio) | **Excel, VBA** | Ferramenta para organização e validação de dados para Declaração de Imposto de Renda. |
+| [**Construindo Banco de Dados com Ajuda da IA**] PIM & Master Data Governance (https://github.com/renalioficial/data-base-pokemon-tcg-cards) | **PostgreSQL, SQL, PowerShell, IA** | Modelagem completa de banco de dados relacional, com script de automação de migração e Views para análise de dados. |
+| [**Simulador de Investimentos FIIs**] Real Estate Investment Tracker
+(https://github.com/renalioficial/controle-investimentos-dio) | **Excel, Lógica Financeira** | Ferramenta para projeção de juros compostos e dividendos, simulando cenários de longo prazo para tomada de decisão. |
+| [**Organizador IR**] Automated Tax Compliance System
+(https://github.com/renalioficial/informe-leao-organizador-de-imposto-de-renda-dio) | **Excel, VBA** | Ferramenta para organização e validação de dados para Declaração de Imposto de Renda. |
 
 ---
 
