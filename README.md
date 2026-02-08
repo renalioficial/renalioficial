@@ -1,7 +1,7 @@
 <div style="display: inline_block"><br>
   <img alt="Renali-SQL" src="https://img.shields.io/badge/SQL-Expert-blue?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="Renali-Python" src="https://img.shields.io/badge/Python-Data-yellow?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Renali-PowerBI" src="https://img.shields.io/badge/PowerBI-Business_Intel-orange?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img alt="Renali-PowerBI" src="https://img.shields.io/badge/PowerBI-Business_Intelligence-orange?style=for-the-badge&logo=powerbi&logoColor=white" />
   <img alt="Renali-Excel" src="https://img.shields.io/badge/Excel-Advanced-success?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img alt="Renali-Git" src="https://img.shields.io/badge/Git-Version_Control-red?style=for-the-badge&logo=git&logoColor=white" />
 </div>
