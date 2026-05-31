@@ -51,20 +51,12 @@ Combinando expertise de gestão com tecnologias de análise de dados:
 
 ---
 
-## 🔥 Minha Frequência
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renalioficial&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-
 ## 📫 Contato
 
 Estou sempre aberta a discutir inovação em gestão e eficiência operacional.
 
-<a href="mailto:oficialrenali@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+
+<a href="https://www.linkedin.com/in/renali-cozaciski/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
